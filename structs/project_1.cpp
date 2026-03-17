@@ -34,7 +34,7 @@ int main() {
         
     }
     else if (area1 < area2) {
-        cout << "Triangle 1 is larger";
+        cout << "Triangle 2 is larger";
     }
     else {
         cout << "Equal areas";
